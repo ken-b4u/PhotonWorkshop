@@ -1,4 +1,4 @@
-PhotoneWorkshop
+PhotonWorkshop
 ===============
 
 Photon Realtime ワークショップ 導入編  
